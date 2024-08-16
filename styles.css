@@ -7,6 +7,7 @@
 
 .listaDulces li {
     border-bottom: 1px solid #eee;
+    font-family: poppins-medium;
 }
 
 .enlaces {
@@ -19,5 +20,9 @@
 
 .enlaces p {
     border-bottom: 1px solid #eee;
+    font-family: poppins-black;
 }
 
+.intro {
+    font-family: poppins-black;
+}

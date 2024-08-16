@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "poppins-medium";
+    src: url(fonts/Poppins-Medium.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "poppins-black";
+    src: url(fonts/Poppins-Bold.ttf) format("truetype");
+}
