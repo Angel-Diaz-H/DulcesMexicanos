@@ -1,0 +1,23 @@
+.listaDulces {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    color:rgb(24, 115, 47);
+}
+
+.listaDulces li {
+    border-bottom: 1px solid #eee;
+}
+
+.enlaces {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    color:rgb(115, 24, 24);
+    border-bottom: 1px solid #eee;
+}
+
+.enlaces p {
+    border-bottom: 1px solid #eee;
+}
+
